@@ -1,4 +1,4 @@
-# Brackets Theme: chill
+# Brackets Theme: material-300
 
 This theme uses Google's Material Design color palette.
 All but gray use the 300 value hence the name.
