@@ -1,0 +1,21 @@
+{
+    "name": "arturo-material-300",
+    "title": "material-300",
+    "description": "Dark theme that uses Google's Material Design colors",
+    "homepage": "https://github.com/arturoalviar/material-300-brackets",
+    "version": "0.0.7",
+    "author": {
+        "name": "arturoalviar",
+        "url": "https://arturoalviar.com"
+    },
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": [
+        "dark", 
+        "flat",
+        "material design"
+    ]
+}
